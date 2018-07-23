@@ -34,7 +34,7 @@ class App extends Component {
                     ref='showPopularBar'
                     onChange={() => this.setState({showPopularBar: !this.state.showPopularBar })}
                     />
-                    Show Counter
+                    Show Counter 
                 </label>
 
                 <PopularBar
